@@ -1,0 +1,12 @@
+name = "DecorationX: Christmas"
+filename = "decorationx_christmas-1.0.1+neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7COzXwtc/versions/8nVEQNce/decorationx_christmas-1.0.1%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3875ec850e4e7af47c1dc4563498bdb832785c95430927b0fc9e618852551add8145aabfe578f4666dbeb91b78ca4dc1dd102159f4af12a18cbb545dd037f130"
+
+[update.modrinth]
+mod-id = "7COzXwtc"
+version = "8nVEQNce"

@@ -1,0 +1,367 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start_przygody"
+	group: ""
+	icon: {
+		id: "minecraft:crafting_table"
+	}
+	id: "5D1642BC173AF715"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "721EC60A4C7E9661"
+			rewards: [{
+				count: 16
+				id: "31552EAF9C97EE3B"
+				item: {
+					count: 1
+					id: "minecraft:baked_potato"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "634EC65D9964A86C"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["721EC60A4C7E9661"]
+			id: "645E6DC140FEDFD9"
+			rewards: [{
+				id: "0223755D95BBF1B3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6C64DD46D867CCD6"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["645E6DC140FEDFD9"]
+			id: "197099C98590A96F"
+			rewards: [{
+				count: 16
+				id: "631634463F9C0D73"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "7A7ABC8C52B55ED4"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["197099C98590A96F"]
+			id: "32FF0CC17FA21AD8"
+			rewards: [{
+				count: 8
+				id: "088F79A51D8F8985"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "25D698DFFF6E78C0"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["645E6DC140FEDFD9"]
+			icon: {
+				id: "minecraft:stone_sword"
+			}
+			id: "68329EED41069CEC"
+			optional: true
+			rewards: [
+				{
+					count: 16
+					id: "6A9FE567BEB32F83"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2E65D03A9E8AAE14"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "5D04C72D6943ED54"
+					item: { count: 1, id: "minecraft:stone_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "3A332F655CB15E41"
+					item: { count: 1, id: "minecraft:stone_shovel" }
+					type: "item"
+				}
+				{
+					id: "288E9CE8257ABA30"
+					item: { count: 1, id: "minecraft:stone_sword" }
+					type: "item"
+				}
+				{
+					id: "6C3ED9A6170CD712"
+					item: { count: 1, id: "minecraft:stone_axe" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["197099C98590A96F"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "49475DFC6C4D1BA5"
+			optional: true
+			rewards: [
+				{
+					count: 32
+					id: "3287F8BC993BA13E"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "4D6D6BDA3E2A5DC5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [
+				{
+					id: "62B2132ED8BCCAA9"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+				{
+					id: "2FCEEA0C0F30952B"
+					item: { count: 1, id: "minecraft:iron_axe" }
+					type: "item"
+				}
+				{
+					id: "402F1ACE7D252F71"
+					item: { count: 1, id: "minecraft:iron_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "18F1AEFD149AF951"
+					item: { count: 1, id: "minecraft:iron_shovel" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["197099C98590A96F"]
+			id: "682C06665A2FDD22"
+			optional: true
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				id: "1BDAF5552272A35E"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["32FF0CC17FA21AD8"]
+			id: "1F31309523460052"
+			rewards: [
+				{
+					count: 10
+					id: "626264F3041727E2"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6ACF1CC6C469975F"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/form_obsidian"
+				criterion: ""
+				id: "66FBAE678C57CEF0"
+				optional_task: true
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["32FF0CC17FA21AD8"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "39A833477585FAAF"
+			rewards: [
+				{
+					count: 32
+					id: "60306D5238B94EE4"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					id: "7EA90084CBBA1BF7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [
+				{
+					id: "48191C579DD765F3"
+					item: { count: 1, id: "minecraft:diamond_sword" }
+					type: "item"
+				}
+				{
+					id: "0382015901EB1A77"
+					item: { count: 1, id: "minecraft:diamond_axe" }
+					type: "item"
+				}
+				{
+					id: "081464A6784B02E5"
+					item: { count: 1, id: "minecraft:diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "7365E88D48459FE9"
+					item: { count: 1, id: "minecraft:diamond_shovel" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["721EC60A4C7E9661"]
+			id: "5E5B53A61ABF8229"
+			optional: true
+			rewards: [
+				{
+					id: "74F706BCBBA7DD54"
+					item: {
+						count: 1
+						id: "minecraft:oak_boat"
+					}
+					type: "item"
+				}
+				{
+					id: "02F8BE4362511BEB"
+					item: {
+						count: 1
+						id: "minecraft:lectern"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34BF836584E3CDD6"
+				optional_task: true
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1F31309523460052"]
+			id: "30B98A3B2B4BA507"
+			rewards: [{
+				id: "57DF1C704855E3FC"
+				item: {
+					count: 1
+					id: "minecraft:golden_boots"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				icon: {
+					id: "minecraft:netherrack"
+				}
+				id: "4E20DC2FEFFAB670"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F31309523460052"]
+			id: "464240441E2A3F65"
+			rewards: [{
+				count: 3
+				id: "2211D04773C19DEA"
+				item: {
+					count: 1
+					id: "minecraft:bookshelf"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "27480B8C868B9C35"
+					item: { count: 1, id: "minecraft:enchanting_table" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "7B46B30BBA8B6E3B"
+					item: { count: 1, id: "minecraft:lapis_lazuli" }
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 2.0d
+		}
+	]
+}

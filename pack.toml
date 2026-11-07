@@ -1,0 +1,14 @@
+name = "serwer swieta"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "64a869ce8752566fb4f0b68e89e1970b391407b2f13f16af008f90f538a3333d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
+unsup = "1.2.5"

@@ -1,0 +1,140 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: ""
+	icon: {
+		id: "minecraft:netherrack"
+	}
+	id: "291D6D7EE0566A29"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["30B98A3B2B4BA507"]
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "7D790383274A04B6"
+			rewards: [
+				{
+					count: 16
+					id: "7A689F6B44485902"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "35DFF1897F4ED969"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "18CA6FDB96108717"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D790383274A04B6"]
+			id: "79636F44569136A3"
+			rewards: [{
+				id: "13A0E5E78D306726"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:nether_bricks"
+				}
+				id: "1263136AA04910E3"
+				structure: "minecraft:fortress"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79636F44569136A3"]
+			id: "625D7D85A4698AC3"
+			rewards: [
+				{
+					count: 8
+					id: "7C3A21F92EC5E8E2"
+					item: {
+						count: 1
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "2972810EC286FB87"
+					item: {
+						count: 1
+						id: "minecraft:nether_wart"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "28020654FC3F7E7A"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D790383274A04B6"]
+			id: "66DE47849222A52C"
+			rewards: [{
+				count: 16
+				id: "34CF9DD9D8EE2F90"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3938DB10D90068CC"
+				structure: "#minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["66DE47849222A52C"]
+			id: "51CD8AB4FD827A41"
+			rewards: [{
+				count: 2
+				id: "1371012D4F61A3E4"
+				item: {
+					count: 1
+					id: "minecraft:ender_chest"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "24B09714E6BAE804"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+	]
+}

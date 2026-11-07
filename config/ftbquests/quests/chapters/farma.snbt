@@ -1,0 +1,176 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farma"
+	group: ""
+	icon: {
+		id: "minecraft:campfire"
+	}
+	id: "355A1F46962D40C8"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "50DC58A0FE4D0597"
+			rewards: [
+				{
+					id: "48F53A6B2A48BD40"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					type: "item"
+				}
+				{
+					id: "79155446F6121AF4"
+					item: {
+						count: 1
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "07712E418CA675D4"
+					item: {
+						count: 1
+						id: "minecraft:wheat_seeds"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "5CDBF1EA62CCC950"
+				item: { count: 1, id: "minecraft:iron_hoe" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["50DC58A0FE4D0597"]
+			id: "10C8530E88F3B0BF"
+			rewards: [{
+				count: 16
+				id: "1A2F7B2C1AD7C74E"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "35FFCF2E5861DDFB"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["10C8530E88F3B0BF"]
+			id: "5D8EDDEC3F7696AE"
+			rewards: [
+				{
+					count: 4
+					id: "53BA6276F669EFB9"
+					item: {
+						count: 1
+						id: "farmersdelight:onion"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "54416701B502BD6B"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "36434EDCD655BBE9"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage_seeds"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4956102F0098F47E"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["10C8530E88F3B0BF"]
+			id: "33635BD64EAF1EA8"
+			rewards: [{
+				count: 16
+				id: "13A7428D71B196E6"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "193DDCF54BCE27BB"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["50DC58A0FE4D0597"]
+			id: "50A9FEB4B49ADEEE"
+			rewards: [
+				{
+					count: 16
+					id: "022E1DB2C1EBE642"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "24E28D5A2D1AEDFC"
+					item: {
+						count: 1
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+				{
+					id: "420DDEA552E5A731"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [
+				{
+					id: "79BB69E77F4E1CA6"
+					item: { count: 1, id: "farmersdelight:cutting_board" }
+					type: "item"
+				}
+				{
+					id: "0D8CF736901554CF"
+					item: { count: 1, id: "farmersdelight:iron_knife" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 4.0d
+		}
+	]
+}

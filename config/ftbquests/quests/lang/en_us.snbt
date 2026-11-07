@@ -1,0 +1,31 @@
+{
+	chapter.291D6D7EE0566A29.title: "nether"
+	chapter.355A1F46962D40C8.title: "farma"
+	chapter.4B1F31F706CBED23.title: "create"
+	chapter.5D1642BC173AF715.title: "start przygody"
+	file.0000000000000001.title: "Początek"
+	quest.0455DF8DD2BBD131.quest_desc: ["Narzędzia do pomocy z create"]
+	quest.0455DF8DD2BBD131.title: "Starter kit"
+	quest.197099C98590A96F.quest_desc: ["Początek ery żelaza, teraz czas na diamenty..."]
+	quest.1F31309523460052.quest_desc: ["Czas na nether albo zaklinanie narzędzi."]
+	quest.32FF0CC17FA21AD8.quest_desc: ["Zdobądź diamenty, całkiem proste jak wie się gdzie szukać."]
+	quest.49475DFC6C4D1BA5.quest_desc: ["Czas na poprawne narzędzia."]
+	quest.4AB4C36BC7C9DD89.quest_desc: ["Początek modyfikacji create"]
+	quest.4AB4C36BC7C9DD89.title: "Andezyt"
+	quest.5E5B53A61ABF8229.quest_desc: ["Czas na zamieszkanie lub uprowadzenie..."]
+	quest.5E5B53A61ABF8229.title: "Wioska"
+	quest.645E6DC140FEDFD9.quest_desc: ["Znajdź cobblestone."]
+	quest.68329EED41069CEC.quest_desc: ["Czas na wyposarzenie."]
+	quest.68329EED41069CEC.title: "Narzędia z kamienia"
+	quest.721EC60A4C7E9661.quest_desc: [
+		"Wytwórz crafting table."
+		"To wszystko."
+	]
+	quest.7D790383274A04B6.quest_desc: ["Dom rusia"]
+	quest.7D790383274A04B6.title: "Wstąp do netheru"
+	task.1263136AA04910E3.title: "Forteca"
+	task.18CA6FDB96108717.title: "nether"
+	task.34BF836584E3CDD6.title: "Wioska"
+	task.3938DB10D90068CC.title: "Bastion"
+	task.4E20DC2FEFFAB670.title: "Nether"
+}

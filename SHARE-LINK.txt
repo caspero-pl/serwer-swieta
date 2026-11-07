@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fcaspero-pl%2Fserwer-swieta%2Fmain%2Fpack.toml&name=serwer+swieta&unsup=true&shared_by=caspero_pl
