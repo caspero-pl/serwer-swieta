@@ -1,12 +1,12 @@
 name = "serwer swieta"
 author = ""
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "64a869ce8752566fb4f0b68e89e1970b391407b2f13f16af008f90f538a3333d"
+hash = "341b9ab8cedb5450c771ec1f2f2c8c4f0a635e82addbb93ed5f4225e6526999f"
 
 [versions]
 minecraft = "1.21.1"

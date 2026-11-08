@@ -1308,6 +1308,11 @@ hash = "fcbffb799a84e37daf4c308fca5fb73a8470e73ed508687b5e2bdbf2100829fb"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscopetavern-1-2-0-neoforge-mc1-21-1.pw.toml"
+hash = "fb82f1930a31c7bc791e0539bae075400058e33b0118ee716f4ae32f46066422"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
 hash = "19837bab30b529e580f7d898cf7079f2d4c94ce541c5cfab2fd4f248302b6c3e"
 metafile = true
@@ -1518,6 +1523,21 @@ hash = "781270c0101874cdf190a40d1794ea8c066618b7308937fc3d3fdccd8690c7f5"
 metafile = true
 
 [[files]]
+file = "mods/weatherglass-0-6-0-1-21-1-neoforge.pw.toml"
+hash = "e7b235eece2b47bd03946e2b9be8ef1262ad8b27c81d7ec051e79ea7633528fc"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1-21-1-26-6-0.pw.toml"
+hash = "770f51192639ce0c85b75cbc9795d61af2e400fa086cb42b2aac1a8e452ccc00"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1-21-1-1-47-0.pw.toml"
+hash = "579e1358cd353fb19cd25c4189e5e8a3e06ef81eee888f4ff0287e8d1764bdc7"
+metafile = true
+
+[[files]]
 file = "mods/yungsapi-1-21-1-neoforge-5-1-9.pw.toml"
 hash = "91d6c99629759bd09b526f5efc23a53fa3d6c48b359fe58bce57bf78611dce4d"
 metafile = true
@@ -1526,10 +1546,6 @@ metafile = true
 file = "mods/yungsbetterstrongholds-1-21-1-neoforge-5-1-3.pw.toml"
 hash = "596fbc64623c385db5869a14015e09540e98602f539ef106566457d3f8a82d5e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Xray_Ultimate_26.X_v5.4.4.zip"
-hash = "0d9d6add6ddbfea9155548afa8023fbfad3252763f925e40a98d8136f962cc3c"
 
 [[files]]
 file = "resourcepacks/animated-items-1-21-x-26-3-v1-6-3.pw.toml"
