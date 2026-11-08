@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "serwer swieta",
   "author": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -125,7 +125,10 @@
       "mods/kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
       "mods/weatherglass-0.6.0-1.21.1-neoforge.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
-      "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
+      "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "mods/nodurability-neoforge-3.0.0.jar",
+      "mods/sophisticatedstorage-1.21.1-1.6.16.2222.jar"
     ],
     "files": [
       "config/MouseTweaks.cfg",
@@ -422,6 +425,7 @@
       "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "mods/createbetterfps-1.21.1-1.1.5.jar",
       "mods/cropsloverain-3.2.2.jar",
+      "mods/curios-neoforge-9.5.1+1.21.1.jar",
       "mods/decorationx_christmas-1.0.1+neoforge-1.21.1.jar",
       "mods/distraction_free_recipes-neoforge-1.2.1-1.21.1.jar",
       "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
@@ -467,6 +471,7 @@
       "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "mods/moonlight-1.21.1-3.8.2-neoforge.jar",
       "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "mods/nodurability-neoforge-3.0.0.jar",
       "mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
       "mods/ParticleEffects-1.6.0+1.21.1+neoforge.jar",
       "mods/particlerain-4.0.3+1.21.1-neoforge.jar",
@@ -487,6 +492,7 @@
       "shaderpacks/Solas Shader V3.9.zip",
       "mods/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "mods/sophisticatedcore-1.21.1-1.5.28.2458.jar",
+      "mods/sophisticatedstorage-1.21.1-1.6.16.2222.jar",
       "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
       "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
       "mods/struts-1.3.1.jar",

@@ -1148,6 +1148,11 @@ hash = "38a15c1b9776cba4a8cf6d2662a969dd31b9808b25285cb3ba4a10d911928a02"
 metafile = true
 
 [[files]]
+file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
+hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
+metafile = true
+
+[[files]]
 file = "mods/decorationx-christmas-1-0-1-neoforge-1-21-1.pw.toml"
 hash = "9a0c81ec66b1d0cf2f5dfc37f45570451168936aec15d5a8589a7d18b696638c"
 metafile = true
@@ -1378,6 +1383,11 @@ hash = "4e6b7fdd2fed48727870a04d70370968b9c6a578d302d1e11b2b641ccb48648b"
 metafile = true
 
 [[files]]
+file = "mods/nodurability-neoforge-3-0-0.pw.toml"
+hash = "032249330d17c6199cd1cb6d5238975d97c8d04f664d665fe27921360ee8878e"
+metafile = true
+
+[[files]]
 file = "mods/octo-arms-1-7-0-mc1-21-1.pw.toml"
 hash = "23ae0cc5b9a0c53d1f9661d826b6459a637bf220799eba3b46e8a0f378b3ebf1"
 metafile = true
@@ -1475,6 +1485,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedcore-1-21-1-1-5-28-2458.pw.toml"
 hash = "b518d218ea663e689f8c222b8ec9c9ad6b1893f7479306f8853605012dd672ba"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1-21-1-1-6-16-2222.pw.toml"
+hash = "420accff356457baa3e4e0bf3e80ad0a64b8050ff3de869c20f488035fad545d"
 metafile = true
 
 [[files]]
