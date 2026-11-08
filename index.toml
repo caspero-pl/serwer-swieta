@@ -270,7 +270,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3a8a94622ca9230faa04f690ef44825969eaf2e7bd3f6b5632d763d54c132bc5"
+hash = "897c6c4328f66e5dce38c7de219e1e5e1e4e17f1b3dc71dcb7737cf19b418a5a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -362,19 +362,19 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "8e5c3a67b524743921b544d9103dae3d820a10635047f53f45e2db129373a462"
+hash = "42da40bbc34de660b2cb64f4278e37438728201a9ac9aa9d57fb7103f733ba0f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farma.snbt"
-hash = "3a2b2727cc570ff337718a35cbfcc1673867690195e492cfcfec6042d483c602"
+hash = "61cf26a5c5edc918cda9106f9965a3b3bafac223d522b6b367a8f5ab0eddcc38"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether.snbt"
-hash = "58d63fd9126b17e3eba7ed0fda41424a633c6e1e805ecdb747cd27a13bb20199"
+hash = "2c8af6ce562bf4c0da0104af5b317096fbba5cf27953d417689470c036c5f73b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/start_przygody.snbt"
-hash = "1213031bae44f7b7bb4af0def199f96b21977cf183926e9bbfb1acd8ff028046"
+hash = "66aea9537e73ad0815e3c94c2c94f73c522f996f648f386f561846d0f5d9142e"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -382,7 +382,7 @@ hash = "cda045bb2e3eb76c83d4a770ef285b7b1ea94366ac061deaad3ca46eb7e455ca"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "5a62c0cf5da49ce11a9350fd021561e13e0e8307c683b9cd4391839932ddce02"
+hash = "f1c034f2684db6d8651a85e572eb99dfc78a415c3bb4de5699aa42ca0f79e7ee"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -418,7 +418,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a7702d5361df811e893a72d4ce12b457091a7eae26fdd455d19ef26b742b841a"
+hash = "5cc4236a10263a8c6ac7935604253b8ed87a879d5038ae281b8742cdf01af276"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -438,11 +438,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d68173c1683a637be4f244d7cd33b6f02df86500d0dea8737fff0aec66830f27"
+hash = "9d856c448beb52f31de8e6fc3aa5d13e618b8e41362ef6bff11c6db8a589c23a"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "4d49878d51a64889718ee3b8856f1fd3c16db83bd089fcc76be2b33b7a2e0ab5"
+hash = "4c6cdaf1c66d7302a58d91cc7413a6bfa8a18ba6f96ee8a12ea233a7eac920e8"
 
 [[files]]
 file = "config/jei/blacklist.json"
@@ -682,7 +682,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "487b7e3c9cd00852fde982459d836b4fca19c3881ccebbff210c65b457608254"
+hash = "eecd60d3ffd0ac93a547a5f97396ab1bf1826526f6f4b33296478c91667ae224"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -774,7 +774,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "80a463e19fb39e7a64cd0c58d16d4dbbee27945793973f19df002e291162ac25"
+hash = "c87743437f08b9b7169e157e67b9860115fb293021397025961c3ea28688c8ee"
 
 [[files]]
 file = "dynamic-data-pack-cache/snowyspirit-generated_pack/data/snowyspirit/advancement/recipe/sled_acacia.json"
@@ -950,7 +950,7 @@ hash = "4bbf445da6423f61a2d780d0a5ef78c8b9d6371f14ccb0ca21dd14dbe364fe74"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "37d8bc2029d13d1030267816a6e1a16b2cea96a2aed74b8ba2226c500569abec"
+hash = "62defdabfdc03fb70fa52e4624102ae515341a149fa113e4bf269aa55a5bfabc"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-13-0-11-neoforge.pw.toml"
-hash = "01478fb1350a3e7e0eae65b669bce67a59edbb1b2b67037d983f808c5a9ace04"
+hash = "e43efff4be014f2684e55308982661b0c3446bb08bbe35a1f7812a017331afc8"
 metafile = true
 
 [[files]]

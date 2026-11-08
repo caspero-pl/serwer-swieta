@@ -185,7 +185,7 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
+			x: 6.0d
 			y: 2.0d
 		}
 		{
@@ -284,6 +284,7 @@
 		{
 			dependencies: ["721EC60A4C7E9661"]
 			id: "5E5B53A61ABF8229"
+			invisible: true
 			optional: true
 			rewards: [
 				{
@@ -362,6 +363,21 @@
 			]
 			x: 11.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["32FF0CC17FA21AD8"]
+			id: "0E45CC54815B8ECB"
+			tasks: [{
+				advancement: "minecraft:story/shiny_gear"
+				criterion: ""
+				icon: {
+					id: "minecraft:diamond_chestplate"
+				}
+				id: "247724D23D285D51"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -2.0d
 		}
 	]
 }

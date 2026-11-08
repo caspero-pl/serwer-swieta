@@ -93,8 +93,8 @@
 				item: { count: 1, id: "minecraft:blaze_rod" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7D790383274A04B6"]
@@ -113,8 +113,8 @@
 				structure: "#minecraft:bastion_remnant"
 				type: "structure"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["66DE47849222A52C"]
@@ -133,8 +133,167 @@
 				item: { count: 1, id: "minecraft:ender_pearl" }
 				type: "item"
 			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"625D7D85A4698AC3"
+				"51CD8AB4FD827A41"
+			]
+			id: "32371AEC99C52DB3"
+			rewards: [{
+				id: "07D9BCB1EE36DBFF"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "68B0C0D9A33EB24D"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D790383274A04B6"]
+			id: "4F916CE351080A2F"
+			rewards: [
+				{
+					count: 16
+					id: "78B575EB6B0E61C9"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "59404C84BEF0517F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "7D2C3DB6020E2EF6"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4F916CE351080A2F"]
+			id: "21B6FF3A3BF21D9A"
+			rewards: [{
+				count: 32
+				id: "72533F599123AB57"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "326F04490D1CB151"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4F916CE351080A2F"]
+			id: "18A14374DD09BDCA"
+			invisible: true
+			rewards: [
+				{
+					count: 256
+					id: "799F0DE5ECC5863F"
+					item: {
+						count: 1
+						id: "minecraft:egg"
+					}
+					type: "item"
+				}
+				{
+					id: "7B744183B7F38B2E"
+					item: {
+						count: 1
+						id: "farmersdelight:skillet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67FD90FACDE6DEBE"
+				item: { count: 1, id: "farmersdelight:netherite_knife" }
+				type: "item"
+			}]
 			x: 1.0d
-			y: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4F916CE351080A2F"]
+			id: "4042AAD3EC76F460"
+			invisible: true
+			rewards: [
+				{
+					id: "0982F4D2ABABF7F0"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7E890647C8128126"
+					item: {
+						count: 1
+						id: "minecraft:sniffer_egg"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "75D9CA9A25D497E2"
+				item: { count: 1, id: "minecraft:netherite_hoe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["32371AEC99C52DB3"]
+			id: "062AB0EFF6E5F346"
+			rewards: [
+				{
+					count: 4
+					id: "06632AD8C20CABC5"
+					item: {
+						count: 1
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "62FF95B1AC0AE644"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58B0F131AD9E7AC0"
+				structure: "#betterstrongholds:better_strongholds"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: 0.0d
 		}
 	]
 }
