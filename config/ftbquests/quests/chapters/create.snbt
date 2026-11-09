@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "create"
 	group: ""
 	icon: {
@@ -327,12 +327,13 @@
 			dependencies: ["60ABE9546EBC65CC"]
 			id: "33530A8ED5BC76E7"
 			rewards: [{
-				count: 64
+				count: 32
 				id: "1DF1FAC2635FD967"
 				item: {
 					count: 1
 					id: "minecraft:copper_ingot"
 				}
+				random_bonus: 32
 				type: "item"
 			}]
 			tasks: [
@@ -422,6 +423,7 @@
 		{
 			dependencies: ["34788847D5AF3AC8"]
 			id: "02BA19545B0AB285"
+			min_required_dependencies: 1
 			rewards: [{
 				count: 16
 				id: "58908625BA161EC9"
@@ -436,12 +438,14 @@
 					count: 8L
 					id: "3A01AD33CC82355B"
 					item: { count: 1, id: "create:cogwheel" }
+					optional_task: true
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "1C26358D7971475B"
 					item: { count: 1, id: "create:large_cogwheel" }
+					optional_task: true
 					type: "item"
 				}
 			]
@@ -468,6 +472,72 @@
 			}]
 			x: 2.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["4AB4C36BC7C9DD89"]
+			icon: {
+				id: "copycats:copycat_block"
+			}
+			id: "400B2082D2D0F82F"
+			min_required_dependencies: 1
+			rewards: [{
+				count: 16
+				id: "1C90F6CD3A4731AE"
+				item: {
+					count: 1
+					id: "create:zinc_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "26CA67FAD053E20C"
+					item: { count: 1, id: "copycats:copycat_slab" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6018C584F57D6805"
+					item: { count: 1, id: "create:copycat_step" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "70343F494B1C6A0F"
+					item: { count: 1, id: "copycats:copycat_byte" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["13EF50DEE077FDD0"]
+			id: "62804818BE42FB79"
+			rewards: [
+				{
+					count: 20
+					id: "4879330A01D28442"
+					item: {
+						count: 1
+						id: "create:crafter_slot_cover"
+					}
+					type: "item"
+				}
+				{
+					id: "0E9122FC3CFCB5F2"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "43686145908312E3"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
 		}
 	]
 }

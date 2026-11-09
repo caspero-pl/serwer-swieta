@@ -1,5 +1,6 @@
 {
 	chapter.032C1E9E2A52E43A.title: "End"
+	chapter.175706E1B239B1AD.title: "Plecaki "
 	chapter.291D6D7EE0566A29.title: "nether"
 	chapter.355A1F46962D40C8.title: "Uprawy"
 	chapter.4B1F31F706CBED23.title: "create"
@@ -7,14 +8,18 @@
 	file.0000000000000001.title: "Początek"
 	quest.0455DF8DD2BBD131.quest_desc: ["Narzędzia do pomocy z create"]
 	quest.0455DF8DD2BBD131.title: "Starter kit"
+	quest.0557622B632B82D0.title: "Obserwacja skrzyni"
 	quest.062AB0EFF6E5F346.title: "Stronghold"
 	quest.197099C98590A96F.quest_desc: ["Początek ery żelaza, teraz czas na diamenty..."]
 	quest.1F31309523460052.quest_desc: ["Czas na nether albo zaklinanie narzędzi."]
 	quest.256E0542A1A45AA6.title: "Wejdźdo endu"
 	quest.32FF0CC17FA21AD8.quest_desc: ["Zdobądź diamenty, całkiem proste jak wie się gdzie szukać."]
+	quest.400B2082D2D0F82F.quest_desc: ["Te bloki przyjmują wygląd bloku użytego na nich"]
+	quest.400B2082D2D0F82F.title: "copycaty"
 	quest.49475DFC6C4D1BA5.quest_desc: ["Czas na poprawne narzędzia."]
 	quest.4AB4C36BC7C9DD89.quest_desc: ["Początek modyfikacji create"]
 	quest.4AB4C36BC7C9DD89.title: "Andezyt"
+	quest.4D5D2B4C8F0A2B29.title: "Plecaki start"
 	quest.5E5B53A61ABF8229.quest_desc: ["Czas na zamieszkanie lub uprowadzenie..."]
 	quest.5E5B53A61ABF8229.quest_subtitle: "Znajdź wioskę"
 	quest.5E5B53A61ABF8229.title: "Wioska"
@@ -27,8 +32,15 @@
 	]
 	quest.7D790383274A04B6.quest_desc: ["Dom rusia"]
 	quest.7D790383274A04B6.title: "Wstąp do netheru"
+	reward.4C40542343A03CA4.title: "bilet"
+	reward.73DE7DB7A3D597A7.title: "bilet"
+	reward_table.0ACC441285389455.title: "ores"
+	reward_table.111D9871E18D93A0.title: "storage reward"
+	reward_table.223A0774827315EF.title: "LOTERIA"
 	reward_table.588E35D392ECACAA.title: "shaker-1"
+	reward_table.5E80F5D616340CC5.title: "backpack reward"
 	task.1263136AA04910E3.title: "Forteca"
+	task.1505B574B570DE72.title: "start"
 	task.18CA6FDB96108717.title: "nether"
 	task.34BF836584E3CDD6.title: "Wioska"
 	task.3938DB10D90068CC.title: "Bastion"

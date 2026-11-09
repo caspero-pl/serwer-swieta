@@ -270,7 +270,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "7a31de0640001b6b2f4d62aa603f8e0889eb87872485b16c21bbae289d05eb1a"
+hash = "d3b2d09c45645f36ae3829f096db3b9dc7447061de289d94e4361e8b70086cac"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -362,19 +362,19 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "1c8b0564b0a2d39629e5862e52d00b2af8de218ed1fa8fa9f43ec45e499ab178"
+hash = "ac9953170a1c13c706330830dc22135b341b560c6faac17a3f2cf116c2bb132b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farma.snbt"
-hash = "b2c768cb8d9bbce2e7430d45997f236748b68005f629167ad678c4d518369fb1"
+hash = "9290a3755ae62248edcb6763e2a93ae7aef7445d0fb58285cfd2a49d54429f08"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether.snbt"
-hash = "6bfe0d941ac51e0e86de3ace2b695255eb4b072961d957d615e421c8da670595"
+hash = "51bb0442e5362501ee9e0a834973c2baf851b073a024e01bcc6f3f483b0fc2c1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/start_przygody.snbt"
-hash = "03db45c479d5f480e52519bfb7d41f5a4b3225ca70957778aabedeba13f0deb4"
+hash = "b22f7235c0fb4808f0e47c52d024dc349b8688bf79fa2b83d934d4ccce323c77"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -382,7 +382,7 @@ hash = "cda045bb2e3eb76c83d4a770ef285b7b1ea94366ac061deaad3ca46eb7e455ca"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "20132a420b92c1a05137878b5148b4fae24fe04b46185b10b44dfdd666161349"
+hash = "0ab460175aadc37063c001a57b83deaff85db968c5bce2dbedde18b07646016b"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -418,7 +418,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "6713aa9b514d0069371f683eefd432386baf0a3d5b18d8de66549c40fd6870d3"
+hash = "8ae25671f71dd16762bbfdd19a8749e3e0fef1934d242686ee548f89c2ec4c55"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -774,7 +774,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "2fa68f213fdaea332aa0954fb8824bf46bca698acfdd7903c5a2711f27aedd7a"
+hash = "8c4a36144cca26d14944366553d7f93d8b4678b19590ce6c85e6fa5f12542495"
 
 [[files]]
 file = "dynamic-data-pack-cache/snowyspirit-generated_pack/data/snowyspirit/advancement/recipe/sled_acacia.json"
@@ -950,7 +950,7 @@ hash = "4bbf445da6423f61a2d780d0a5ef78c8b9d6371f14ccb0ca21dd14dbe364fe74"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "26303678fafa352d8bd59d753f011aa5caf0fd9174d9f5270aa0987d0e1efe2e"
+hash = "06c0f851f9e53ea5937a93feb24e4ec4b5d3fc6b83ada38ce686522fe5949283"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"

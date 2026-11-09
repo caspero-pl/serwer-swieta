@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "start_przygody"
 	group: ""
 	icon: {
@@ -12,6 +12,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["3ACB4F07433AAA38"]
 			id: "721EC60A4C7E9661"
 			rewards: [{
 				count: 16
@@ -437,6 +438,21 @@
 			]
 			x: 4.0d
 			y: -2.0d
+		}
+		{
+			id: "3ACB4F07433AAA38"
+			rewards: [{
+				id: "29C9C9AAEBD02921"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "1505B574B570DE72"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
 		}
 	]
 }
