@@ -22,6 +22,7 @@
 				}
 				type: "item"
 			}]
+			shape: "hexagon"
 			size: 1.25d
 			tasks: [{
 				id: "634EC65D9964A86C"
@@ -137,7 +138,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.5d
 			y: 2.0d
 		}
 		{
@@ -377,6 +378,64 @@
 				type: "advancement"
 			}]
 			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["645E6DC140FEDFD9"]
+			id: "444FF6170AB535B7"
+			rewards: [{
+				count: 8
+				id: "4CB1802E68C0D3E4"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7AC980B8A357B9DF"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["444FF6170AB535B7"]
+			id: "6786094B670EF4C3"
+			rewards: [
+				{
+					count: 64
+					id: "2A9C197975DE1886"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "633954D2F87AA70E"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "16604D03DD598DF5"
+					item: { count: 1, id: "minecraft:smoker" }
+					type: "item"
+				}
+				{
+					id: "2B9F0E7832DD85D0"
+					item: { count: 1, id: "minecraft:blast_furnace" }
+					type: "item"
+				}
+			]
+			x: 4.0d
 			y: -2.0d
 		}
 	]

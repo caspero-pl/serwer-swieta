@@ -37,6 +37,7 @@
 					type: "item"
 				}
 			]
+			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
 				id: "18CA6FDB96108717"

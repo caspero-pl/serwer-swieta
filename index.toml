@@ -270,7 +270,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "897c6c4328f66e5dce38c7de219e1e5e1e4e17f1b3dc71dcb7737cf19b418a5a"
+hash = "7a31de0640001b6b2f4d62aa603f8e0889eb87872485b16c21bbae289d05eb1a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -362,19 +362,19 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "42da40bbc34de660b2cb64f4278e37438728201a9ac9aa9d57fb7103f733ba0f"
+hash = "1c8b0564b0a2d39629e5862e52d00b2af8de218ed1fa8fa9f43ec45e499ab178"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farma.snbt"
-hash = "61cf26a5c5edc918cda9106f9965a3b3bafac223d522b6b367a8f5ab0eddcc38"
+hash = "b2c768cb8d9bbce2e7430d45997f236748b68005f629167ad678c4d518369fb1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether.snbt"
-hash = "2c8af6ce562bf4c0da0104af5b317096fbba5cf27953d417689470c036c5f73b"
+hash = "6bfe0d941ac51e0e86de3ace2b695255eb4b072961d957d615e421c8da670595"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/start_przygody.snbt"
-hash = "66aea9537e73ad0815e3c94c2c94f73c522f996f648f386f561846d0f5d9142e"
+hash = "03db45c479d5f480e52519bfb7d41f5a4b3225ca70957778aabedeba13f0deb4"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -382,7 +382,7 @@ hash = "cda045bb2e3eb76c83d4a770ef285b7b1ea94366ac061deaad3ca46eb7e455ca"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "f1c034f2684db6d8651a85e572eb99dfc78a415c3bb4de5699aa42ca0f79e7ee"
+hash = "20132a420b92c1a05137878b5148b4fae24fe04b46185b10b44dfdd666161349"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -418,7 +418,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5cc4236a10263a8c6ac7935604253b8ed87a879d5038ae281b8742cdf01af276"
+hash = "6713aa9b514d0069371f683eefd432386baf0a3d5b18d8de66549c40fd6870d3"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -670,7 +670,7 @@ hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "b160d32723b3f92ce9f2bafde0ef4a48dc6b6c76bc80d544ad57555046c285b7"
+hash = "9cea34061adb05c0ef5fffad67c6a9f6baa7ae4518c769be48af4f5da7ab4c89"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -774,7 +774,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "c87743437f08b9b7169e157e67b9860115fb293021397025961c3ea28688c8ee"
+hash = "2fa68f213fdaea332aa0954fb8824bf46bca698acfdd7903c5a2711f27aedd7a"
 
 [[files]]
 file = "dynamic-data-pack-cache/snowyspirit-generated_pack/data/snowyspirit/advancement/recipe/sled_acacia.json"
@@ -950,7 +950,7 @@ hash = "4bbf445da6423f61a2d780d0a5ef78c8b9d6371f14ccb0ca21dd14dbe364fe74"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "62defdabfdc03fb70fa52e4624102ae515341a149fa113e4bf269aa55a5bfabc"
+hash = "26303678fafa352d8bd59d753f011aa5caf0fd9174d9f5270aa0987d0e1efe2e"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"
@@ -1458,6 +1458,11 @@ hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
 metafile = true
 
 [[files]]
+file = "mods/shadowdrop-3-0-4-1-21-1-neoforge.pw.toml"
+hash = "1626320e230e3daa8f48e052c48b095a893a566e8b4526e04b0175179d9ed9ef"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip-neoforge-5-1-9-1-21-1.pw.toml"
 hash = "6a2c93f7890f8623677531a020e40a9af2a31c32cafa964e55d71641847b1379"
 metafile = true
@@ -1495,6 +1500,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1-21-1-1-5-2.pw.toml"
 hash = "32176f7ea943991bacda320b12f10eb9116ec3640531a461d1ffc10b1bc610e3"
+metafile = true
+
+[[files]]
+file = "mods/streamsreflowing-1-21-1-neoforge-2-17-1.pw.toml"
+hash = "2471d577d6f99ba3e55b79136344329cbc31817ff49e507f4340aea3297ccad3"
 metafile = true
 
 [[files]]
@@ -1585,6 +1595,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/re-covered.pw.toml"
 hash = "c9b77e6a129b4d355b02972ff1cd9fa789fd60863bcd659939ba318629a87bd7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark-lite-1-20-2-26-x.pw.toml"
+hash = "dcb3e9616b9fe86779b1faa4e38d025ce89861b24cb5d794b45537db8c232d31"
 metafile = true
 
 [[files]]

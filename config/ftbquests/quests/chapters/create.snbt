@@ -33,6 +33,7 @@
 					type: "item"
 				}
 			]
+			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
 				count: 16L
