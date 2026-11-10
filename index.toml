@@ -270,7 +270,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "5edd53fe500ce7bb0e57851a4ed456b8ed8011caf6c7a5dbbcc1958f626ea891"
+hash = "efd87285e6a97336b022bbfa37aa5ec575c02bd3619dcc9878b5e2ee165776bf"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -418,7 +418,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8289fe3f2421abf9327c7df94188d4fc4e1795f33c679c877478e583b6a0c90f"
+hash = "1850f8ffd34e4b3fc09edcc0be67ba0374f0757a185fe1713b8861e91ac6ad50"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -950,7 +950,7 @@ hash = "4bbf445da6423f61a2d780d0a5ef78c8b9d6371f14ccb0ca21dd14dbe364fe74"
 
 [[files]]
 file = "dynamic-resource-pack-cache/hash.txt"
-hash = "06c0f851f9e53ea5937a93feb24e4ec4b5d3fc6b83ada38ce686522fe5949283"
+hash = "2705c271453249eff39d126f53e98da4339046561af476ae9d194c2b077c3310"
 
 [[files]]
 file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json"
